@@ -1,0 +1,27 @@
+# IntelliJ IDEA
+/.idea/
+/*.iml
+/out/
+/target/
+/.idea_modules/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Java
+*.class
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Build tools
+!/mvnw
+!/gradlew
