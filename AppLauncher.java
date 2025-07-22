@@ -7,7 +7,7 @@ public static void main(String[] args){
         public void run (){
             new WeatherApp().setVisible(true);
 //System.out.println(App.getLocationData("Tokyo"));
-            System.out.println(App.getCurrentTime());
+            System.out.println( App.getCurrentTime());
         }
     });
 }
